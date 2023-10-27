@@ -1,0 +1,272 @@
+[
+    {
+        "id": "Microfono-01",
+        "titulo": "Microfono Mágico",
+        "imagen": "https://images.unsplash.com/photo-1531651008558-ed1740375b39?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWljcm9mb25vfGVufDB8MXwwfHx8MA%3D%3D",
+        "categoria": {
+            "nombre": "Microfonos",
+            "id": "Microfonos"
+        },
+        "precio": 7000,
+        "detalles": {
+            "descripcion": "El Microfono Mágico es un micrófono de alta calidad que te brinda una experiencia de grabación excepcional. ¡No querrás usar otro micrófono!",
+            "caracteristicas": [
+                "Calidad de sonido asombrosa",
+                "Diseño duradero",
+                "Fácil de usar"
+            ]
+        }
+    },
+    {
+        "id": "Microfono-02",
+        "titulo": "Microfono Estelar",
+        "imagen": "https://images.unsplash.com/photo-1619067321513-bb55a012e9b2?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWljcm9mb25vfGVufDB8MXwwfHx8MA%3D%3D",
+        "categoria": {
+            "nombre": "Microfonos",
+            "id": "Microfonos"
+        },
+        "precio": 6000,
+        "detalles": {
+            "descripcion": "El Microfono Estelar es el micrófono que necesitas para grabaciones profesionales. Su calidad y durabilidad son incomparables.",
+            "caracteristicas": [
+                "Sonido de alta definición",
+                "Construcción robusta",
+                "Fácil de configurar"
+            ]
+        }
+    },
+    {
+        "id": "Microfono-03",
+        "titulo": "Microfono Brillante",
+        "imagen": "https://images.unsplash.com/photo-1585692352038-83025e0333bf?auto.format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1pY3JvZm9ub3xlbnwwfDF8MHx8fDA%3D",
+        "categoria": {
+            "nombre": "Microfonos",
+            "id": "Microfonos"
+        },
+        "precio": 8000,
+        "detalles": {
+            "descripcion": "El Microfono Brillante es un micrófono de calidad superior que iluminará tus grabaciones. ¡Es tu compañero perfecto!",
+            "caracteristicas": [
+                "Sonido nítido y brillante",
+                "Construcción resistente",
+                "Configuración sencilla"
+            ]
+        }
+    },
+    {
+        "id": "Microfono-04",
+        "titulo": "Microfono Pro",
+        "imagen": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1pY3JvZm9ub3xlbnwwfDF8MHx8fDA%3D",
+        "categoria": {
+            "nombre": "Microfonos",
+            "id": "Microfonos"
+        },
+        "precio": 9000,
+        "detalles": {
+            "descripcion": "El Microfono Pro es el micrófono que eligen los profesionales. Ofrece rendimiento de alto nivel en todas las situaciones.",
+            "caracteristicas": [
+                "Calidad de estudio",
+                "Construcción duradera",
+                "Configuración avanzada"
+            ]
+        }
+    },
+    {
+        "id": "Microfono-05",
+        "titulo": "Microfono Dorado",
+        "imagen": "https://images.unsplash.com/photo-1612944639470-ce9a8346a808?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1pY3JvZm9ub3xlbnwwfDF8MHx8fDA%3D",
+        "categoria": {
+            "nombre": "Microfonos",
+            "id": "Microfonos"
+        },
+        "precio": 7500,
+        "detalles": {
+            "descripcion": "El Microfono Dorado es una joya en el mundo de la grabación. Su calidad es comparable al oro.",
+            "caracteristicas": [
+                "Sonido dorado",
+                "Construcción premium",
+                "Configuración elegante"
+            ]
+        }
+    },
+        {
+            "id": "Auricular-01",
+            "titulo": "Auricular Max",
+            "imagen": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lfGVufDB8MXwwfHx8MA%3D%3D",
+            "categoria": {
+                "nombre": "Auriculares",
+                "id": "Auriculares"
+            },
+            "precio": 5500,
+            "detalles": {
+                "descripcion": "Los Auriculares Max son tu puerta a un mundo de sonido increíble. Experimenta la música como nunca antes.",
+                "caracteristicas": [
+                    "Sonido envolvente",
+                    "Diseño ergonómico",
+                    "Conexión inalámbrica"
+                ]
+            }
+        },
+        {
+            "id": "Auricular-02",
+            "titulo": "Auricular Premium",
+            "imagen": "https://plus.unsplash.com/premium_photo-1679864782395-cc5697bf614f?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aGVhZHBob25lfGVufDB8MXwwfHx8MA%3D%3D",
+            "categoria": {
+                "nombre": "Auriculares",
+                "id": "Auriculares"
+            },
+            "precio": 6000,
+            "detalles": {
+                "descripcion": "Los Auriculares Premium te ofrecen una experiencia de audio superior. Sumérgete en la música con estos auriculares de primera clase.",
+                "caracteristicas": [
+                    "Audio de alta resolución",
+                    "Diseño cómodo",
+                    "Cancelación de ruido"
+                ]
+            }
+        },
+        {
+            "id": "Auricular-03",
+            "titulo": "Auricular Clásico",
+            "imagen": "https://images.unsplash.com/photo-1612444530582-fc66183b16f7?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aGVhZHBob25lfGVufDB8MXwwfHx8MA%3D%3D",
+            "categoria": {
+                "nombre": "Auriculares",
+                "id": "Auriculares"
+            },
+            "precio": 5000,
+            "detalles": {
+                "descripcion": "Los Auriculares Clásicos son atemporales y confiables. Disfruta de tu música favorita con un toque de elegancia.",
+                "caracteristicas": [
+                    "Sonido de alta fidelidad",
+                    "Diseño retro",
+                    "Comodidad todo el día"
+                ]
+            }
+        },
+        {
+            "id": "Auricular-04",
+            "titulo": "Auricular Élite",
+            "imagen": "https://images.unsplash.com/photo-1520170350707-b2da59970118?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhlYWRwaG9uZXxlbnwwfDF8MHx8fDA%3D",
+            "categoria": {
+                "nombre": "Auriculares",
+                "id": "Auriculares"
+            },
+            "precio": 8000,
+            "detalles": {
+                "descripcion": "Los Auriculares Élite ofrecen un sonido de primera calidad en un diseño elegante. Sumérgete en la música y el lujo.",
+                "caracteristicas": [
+                    "Calidad de sonido excepcional",
+                    "Diseño premium",
+                    "Cancelación activa de ruido"
+                ]
+            }
+        },
+        {
+            "id": "Auricular-05",
+            "titulo": "Auricular Supreme",
+            "imagen": "https://images.unsplash.com/photo-1594215741864-6024bef4f3e3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhlYWRwaH9uZXxlbnwwfDF8MHx8fDA%3D",
+            "categoria": {
+                "nombre": "Auriculares",
+                "id": "Auriculares"
+            },
+            "precio": 7000,
+            "detalles": {
+                "descripcion": "Los Auriculares Supreme son el pináculo de la experiencia de audio. Experimenta el sonido supremo como nunca antes.",
+                "caracteristicas": [
+                    "Calidad de audio suprema",
+                    "Diseño lujoso",
+                    "Tecnología de vanguardia"
+                ]
+            }
+        },
+        {
+            "id": "Parlante-01",
+            "titulo": "Parlante Sonic",
+            "imagen": "https://images.unsplash.com/photo-1596457941236-c0611cc87551?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "categoria": {
+                "nombre": "Parlantes",
+                "id": "Parlantes"
+            },
+            "precio": 7500,
+            "detalles": {
+                "descripcion": "El Parlante Sonic ofrece un sonido poderoso que llena cualquier espacio. Disfruta de música de alta calidad en todas partes.",
+                "caracteristicas": [
+                    "Sonido envolvente",
+                    "Portabilidad",
+                    "Conectividad avanzada"
+                ]
+            }
+        },
+        {
+            "id": "Parlante-02",
+            "titulo": "Parlante Épico",
+            "imagen": "https://images.unsplash.com/photo-1517756548657-b2c24162e63d?auto=format&fit=crop&q=80&w=1935&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "categoria": {
+                "nombre": "Parlantes",
+                "id": "Parlantes"
+            },
+            "precio": 8500,
+            "detalles": {
+                "descripcion": "El Parlante Épico lleva la música a un nivel superior. Potente, elegante y lleno de funciones innovadoras.",
+                "caracteristicas": [
+                    "Sonido épico",
+                    "Diseño impresionante",
+                    "Conectividad versátil"
+                ]
+            }
+        },
+        {
+            "id": "Parlante-03",
+            "titulo": "Parlante Elegante",
+            "imagen": "https://images.unsplash.com/photo-1595432541891-a461100d3054?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "categoria": {
+                "nombre": "Parlantes",
+                "id": "Parlantes"
+            },
+            "precio": 7000,
+            "detalles": {
+                "descripcion": "El Parlante Elegante es sinónimo de sofisticación y calidad de sonido. Lleva tu experiencia auditiva a un nuevo nivel de elegancia.",
+                "caracteristicas": [
+                    "Sonido elegante",
+                    "Diseño de lujo",
+                    "Conexión avanzada"
+                ]
+            }
+        },
+        {
+            "id": "Parlante-04",
+            "titulo": "Parlante Impacto",
+            "imagen": "https://images.unsplash.com/photo-1564593822213-66b81f28e631?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "categoria": {
+                "nombre": "Parlantes",
+                "id": "Parlantes"
+            },
+            "precio": 8000,
+            "detalles": {
+                "descripcion": "El Parlante Impacto es una bestia del sonido. Con este parlante, sentirás el impacto de la música como nunca antes.",
+                "caracteristicas": [
+                    "Sonido impactante",
+                    "Durabilidad extrema",
+                    "Conectividad potente"
+                ]
+            }
+        },
+        {
+            "id": "Parlante-05",
+            "titulo": "Parlante Supreme",
+            "imagen": "https://images.unsplash.com/photo-1631972234521-24e9d4fbb841?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "categoria": {
+                "nombre": "Parlantes",
+                "id": "Parlantes"
+            },
+            "precio": 9500,
+            "detalles": {
+                "descripcion": "El Parlante Supreme es la elección de los audiófilos y amantes de la música. Ofrece un sonido de alta calidad que te dejará asombrado.",
+                "caracteristicas": [
+                    "Audio supremo",
+                    "Construcción robusta",
+                    "Conectividad versátil"
+                ]
+            }
+        }
+    ]
